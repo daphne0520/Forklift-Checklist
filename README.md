@@ -29,3 +29,37 @@ Implemented photo evidence and remarks to document audit findings and support is
 
 4. Business Analytics & Dashboard
 Developed an interactive dashboard to monitor 5S audit scores, area performance, audit trends, and recurring issues, providing management with visibility into workplace conditions and supporting continuous improvement.
+
+# Pre-Implementation Findings
+1. Lack of a Structured Inspection Process
+-Forklift pre-start inspections involve multiple safety and operational checkpoints.
+-Inspection information may be difficult to standardise and track when recorded through manual or fragmented processes.
+-A centralised digital checklist can provide a more consistent inspection process.
+
+2. Need for Clear Defect Escalation
+-Defects identified during pre-start inspections require further evaluation before the forklift can resume operation.
+-A clear workflow is needed to differentiate between normal operation, PIC review, and maintenance.
+-The app provides a structured escalation flow from inspection → PIC review → operation/maintenance.
+
+3. Critical Safety Defects Require Immediate Action
+-Certain defects, such as brake issues, LPG leakage, mast problems, and hydraulic-related issues, may pose significant safety risks.
+-The inspection process should not only record defects but also support appropriate actions such as stop-work, quarantine, or maintenance.
+
+4. Need for End-to-End Traceability
+-Forklift status needs to be traceable throughout different stages of its operational lifecycle.
+-Inspection results, defect remarks, PIC decisions, maintenance information, and operating status should be linked to the same record.
+-A ticket-based workflow can improve visibility and traceability.
+
+5. Limited Availability of Production Data
+-The application has not yet been deployed for actual production use.
+-Therefore, current data cannot be used to establish actual defect trends, inspection compliance, review turnaround time, or maintenance performance.
+-Production-level performance should be evaluated after sufficient real operational data has been collected.
+
+# Future Data Analysis After Implementation
+-Identify the most frequently reported defect categories.
+-Monitor defect frequency by forklift unit.
+-Identify recurring defects and potential maintenance issues.
+-Analyse PIC review turnaround time.
+-Monitor the proportion of forklifts cleared for operation vs. sent for maintenance.
+-Evaluate inspection compliance and completion trends.
+-Compare operational performance before and after app implementation.
