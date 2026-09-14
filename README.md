@@ -39,6 +39,7 @@ Developed an interactive dashboard to monitor 5S audit scores, area performance,
 
   A centralised digital checklist can provide a more consistent inspection process.
 
+
 2. Need for Clear Defect Escalation
 
   Defects identified during pre-start inspections require further evaluation before the forklift can resume operation.
@@ -47,11 +48,13 @@ Developed an interactive dashboard to monitor 5S audit scores, area performance,
 
   The app provides a structured escalation flow from inspection → PIC review → operation/maintenance.
 
+
 3. Critical Safety Defects Require Immediate Action
    
   Certain defects, such as brake issues, LPG leakage, mast problems, and hydraulic-related issues, may pose significant safety risks.
 
   The inspection process should not only record defects but also support appropriate actions such as stop-work, quarantine, or     maintenance.
+
 
 4. Need for End-to-End Traceability
    
@@ -60,6 +63,7 @@ Developed an interactive dashboard to monitor 5S audit scores, area performance,
   Inspection results, defect remarks, PIC decisions, maintenance information, and operating status should be linked to the same record.
 
   A ticket-based workflow can improve visibility and traceability.
+
 
 5. Limited Availability of Production Data
     
