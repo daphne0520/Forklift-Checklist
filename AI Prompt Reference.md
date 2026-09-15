@@ -1,4 +1,4 @@
-# AI Defect Analysis — Prompt Reference
+# AI Defect Analysis: Prompt Reference
 
 This document records the exact prompts used by the `LLM/Ask LLM#1` node in the
 **Awaiting Review AI Defect Analysis** workflow (V-ONE low-code platform,
