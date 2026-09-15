@@ -6,17 +6,18 @@ Forklifts are high-risk equipment; most sites require a standardized pre-start c
 
 # Objective
 1. Standardize pre-start inspections Provide a consistent 17-item checklist covering all critical safety and operational checkpoints for every forklift, every shift.
-Enforce a clear defect escalation gate Ensure any failed checklist item routes the ticket to PIC review before the forklift can return to operation, closing the gap that paper checklists leave open.
 
-2. Reduce PIC triage time with AI-assisted analysis Automatically draft a defect summary and suggested action (e.g. stop-work, quarantine, route to maintenance) whenever a defect is flagged, so the PIC reviews AI-drafted guidance rather than starting from a blank remark.
+2. Enforce a clear defect escalation gate Ensure any failed checklist item routes the ticket to PIC review before the forklift can return to operation, closing the gap that paper checklists leave open.
 
-3. Enable better tracking and accountability Carry inspection results, defect remarks, PIC decisions, and maintenance outcomes on a single traceable ticket from checklist to shutdown.
+3. Reduce PIC triage time with AI-assisted analysis Automatically draft a defect summary and suggested action (e.g. stop-work, quarantine, route to maintenance) whenever a defect is flagged, so the PIC reviews AI-drafted guidance rather than starting from a blank remark.
 
-4. Support fleet-wide visibility Provide a dashboard showing each forklift's current status, ticket history, and fleet-level distribution across preparation, review, operation, maintenance, and shutdown.
+4. Enable better tracking and accountability Carry inspection results, defect remarks, PIC decisions, and maintenance outcomes on a single traceable ticket from checklist to shutdown.
+
+5. Support fleet-wide visibility Provide a dashboard showing each forklift's current status, ticket history, and fleet-level distribution across preparation, review, operation, maintenance, and shutdown.
 
 
 # Methodology
-1.Workflow Automation Designed and implemented a digital forklift lifecycle workflow using the V-ONE low-code development platform. A single ticket moves through checklist submission, PIC review, maintenance/release, operation, and shutdown, with status-driven routing at each stage.
+1. Workflow Automation Designed and implemented a digital forklift lifecycle workflow using the V-ONE low-code development platform. A single ticket moves through checklist submission, PIC review, maintenance/release, operation, and shutdown, with status-driven routing at each stage.
 
 2. Checklist Design Developed a standardized 17-item pre-start checklist covering forks and load handling, mast/chains/hydraulics, tires, brakes, LPG/fuel systems, safety interlocks, and other critical checkpoints, with pass/fail marking and remarks per item.
 
